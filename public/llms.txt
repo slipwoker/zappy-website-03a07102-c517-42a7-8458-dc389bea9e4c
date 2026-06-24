@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://emilie-coffee-03a07102.zappy5.app
+https://example.com
 בית קפה משפחתי ומחמם לב שמרגיש כמו הבית. בואו ליהנות מקפה איכותי, אווירה אינטימית וחוויה שמחברת בין דורות. חפשו &#39;coffee shops near me&#39; וגלו את הפינה הכי נעימה בעיר.
 
 ### חוויה משפחתית
-https://emilie-coffee-03a07102.zappy5.app/family-experience
+https://example.com/family-experience
 הפכו כל ביקור למסורת משפחתית אהובה. אצלנו תמצאו פינת ישיבה חמה, תפריט שמדבר לכולם ורגעים קטנים של אושר. הגיעו לחוויה שמחכה לכם ממש מעבר לפינה כשאתם מחפשים &#39;coffee cafe near me&#39;.
 
 ### אודות
-https://emilie-coffee-03a07102.zappy5.app/about
+https://example.com/about
 הכירו את האנשים והאהבה שמאחורי כל כוס קפה. Emilie coffee נולד מתוך חלום ליצור בית קפה שכונתי עם נשמה, בדיוק כמו mill house cafe, אבל עם טאץ&#39; ישראלי ייחודי. בואו להרגיש שייכות.
 
 ### צור קשר
-https://emilie-coffee-03a07102.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין מקום למשפחה, לאירוע קטן או סתם להגיד שלום? אנחנו כאן בשבילכם. צרו קשר עוד היום ותנו לנו להפוך את הרגע שלכם לחמים יותר. אל תחפשו רק &#39;coffee shops near me&#39;, פשוט תבואו הביתה.
 
 ### Products
-https://emilie-coffee-03a07102.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Emilie coffee
 
 ### Cart
-https://emilie-coffee-03a07102.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://emilie-coffee-03a07102.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://emilie-coffee-03a07102.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://emilie-coffee-03a07102.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://emilie-coffee-03a07102.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://emilie-coffee-03a07102.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Emilie coffee
 
 ### Category
-https://emilie-coffee-03a07102.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Emilie coffee
 
 ### תודה שפניתם אלינו
-https://emilie-coffee-03a07102.zappy5.app/thank-you
+https://example.com/thank-you
 Emilie coffee - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://emilie-coffee-03a07102.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://emilie-coffee-03a07102.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://emilie-coffee-03a07102.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Cafe / Coffee Shop
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://emilie-coffee-03a07102.zappy5.app/sitemap.xml
-- Robots: https://emilie-coffee-03a07102.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://emilie-coffee-03a07102.zappy5.app/llms-full.txt
-- Products (JSON): https://emilie-coffee-03a07102.zappy5.app/products.json
-- Products (Google Merchant RSS): https://emilie-coffee-03a07102.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
