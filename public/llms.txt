@@ -1,0 +1,105 @@
+# Emilie coffee — Generative Engine Optimization Map
+
+> A cozy, homey family café with a warm and intimate atmosphere. The business is designed to serve the family and carries a personal, welcoming vibe typical of a home-based café experience.
+
+---
+
+## Pages
+
+### בית
+https://emilie-coffee-03a07102.zappy5.app
+בית קפה משפחתי ומחמם לב שמרגיש כמו הבית. בואו ליהנות מקפה איכותי, אווירה אינטימית וחוויה שמחברת בין דורות. חפשו &#39;coffee shops near me&#39; וגלו את הפינה הכי נעימה בעיר.
+
+### חוויה משפחתית
+https://emilie-coffee-03a07102.zappy5.app/family-experience
+הפכו כל ביקור למסורת משפחתית אהובה. אצלנו תמצאו פינת ישיבה חמה, תפריט שמדבר לכולם ורגעים קטנים של אושר. הגיעו לחוויה שמחכה לכם ממש מעבר לפינה כשאתם מחפשים &#39;coffee cafe near me&#39;.
+
+### אודות
+https://emilie-coffee-03a07102.zappy5.app/about
+הכירו את האנשים והאהבה שמאחורי כל כוס קפה. Emilie coffee נולד מתוך חלום ליצור בית קפה שכונתי עם נשמה, בדיוק כמו mill house cafe, אבל עם טאץ&#39; ישראלי ייחודי. בואו להרגיש שייכות.
+
+### צור קשר
+https://emilie-coffee-03a07102.zappy5.app/contact
+רוצים להזמין מקום למשפחה, לאירוע קטן או סתם להגיד שלום? אנחנו כאן בשבילכם. צרו קשר עוד היום ותנו לנו להפוך את הרגע שלכם לחמים יותר. אל תחפשו רק &#39;coffee shops near me&#39;, פשוט תבואו הביתה.
+
+### Products
+https://emilie-coffee-03a07102.zappy5.app/products
+המוצרים שלנו - Emilie coffee
+
+### Cart
+https://emilie-coffee-03a07102.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://emilie-coffee-03a07102.zappy5.app/checkout
+תשלום
+
+### Login
+https://emilie-coffee-03a07102.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://emilie-coffee-03a07102.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://emilie-coffee-03a07102.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://emilie-coffee-03a07102.zappy5.app/product/:slug
+פרטי המוצר - Emilie coffee
+
+### Category
+https://emilie-coffee-03a07102.zappy5.app/category/:slug
+מוצרים - Emilie coffee
+
+### תודה שפניתם אלינו
+https://emilie-coffee-03a07102.zappy5.app/thank-you
+Emilie coffee - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://emilie-coffee-03a07102.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://emilie-coffee-03a07102.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://emilie-coffee-03a07102.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Emilie coffee
+A cozy, homey family café with a warm and intimate atmosphere. The business is designed to serve the family and carries a personal, welcoming vibe typical of a home-based café experience.
+
+## Target Audience
+- משפחה
+- מבקרים משפחתיים
+- תושבי המקום
+- עובדים מהבית
+
+## Industry
+Cafe / Coffee Shop
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://emilie-coffee-03a07102.zappy5.app/sitemap.xml
+- Robots: https://emilie-coffee-03a07102.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://emilie-coffee-03a07102.zappy5.app/llms-full.txt
+- Products (JSON): https://emilie-coffee-03a07102.zappy5.app/products.json
+- Products (Google Merchant RSS): https://emilie-coffee-03a07102.zappy5.app/product-feed.xml
